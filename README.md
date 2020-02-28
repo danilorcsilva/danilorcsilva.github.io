@@ -1,8 +1,6 @@
-## Welcome to GitHub Pages
+##Bem Vindo ao meu site pessoal
 
-You can use the [editor on GitHub](https://github.com/danilorcsilva/danilorcsilva.github.io/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+Segue um resumo de todas as minhas habilidade e experiencias ao longo destes anos atuando com Ti.
 
 ### Markdown
 
